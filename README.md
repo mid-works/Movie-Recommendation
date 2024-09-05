@@ -20,3 +20,6 @@ Getting Started
 
 Acknowledgments
     IMDB for additional movie data.
+
+
+Note : Download tmdb_5000_credits.csv file from Google and add it to the project folder. 
